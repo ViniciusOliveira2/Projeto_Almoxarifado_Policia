@@ -17,3 +17,5 @@
 
 1. Usuário Comum: funcionário do almoxarifado que terá acesso ao abastecimento, retirada, cadastro e organização do estoque. Tendo acesso restrito a funcionalidades do sistema, como os registros de saída.
 2. Usuário Administrador: funcionário responsável pelo almoxarifado, esse por sua vez terá acesso completo ao sistema e suas funcionalidades.
+
+#
