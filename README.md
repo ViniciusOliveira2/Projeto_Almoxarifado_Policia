@@ -19,3 +19,11 @@
 2. Usuário Administrador: funcionário responsável pelo almoxarifado, esse por sua vez terá acesso completo ao sistema e suas funcionalidades.
 
 #
+
+## Membros
+
+#### Bruna de Veiga Oliveira
+#### Gabriela Verissimo e Silva
+#### Giovani Henrique de Farias
+#### Vinicius Antony Ferreira
+#### Vinicius Fogaça de Oliveira
