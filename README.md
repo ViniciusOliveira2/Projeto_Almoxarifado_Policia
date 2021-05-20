@@ -1,7 +1,7 @@
 ### O 5º Batalhão de Polícia Rodoviária de Sorocaba necessita criar um sistema de gerenciamento para a sua área de almoxarifado, e para isso, o tenente Antônio, responsável pela área, passou as suas principais necessidades, de acordo com o resumo abaixo:
 
 #### Esse sistema, a princípio, deve possuir o armazenamento em nuvem, pois, além de facilitar a rotina de trabalho, aumenta a produtividade dos servidores, uma vez que os sistemas podem ser acessados a qualquer hora e em qualquer lugar. Além disso, a tecnologia em nuvem garante maior segurança dos dados.
-####Precisamos de um sistema para gerenciar um almoxarifado. Esse almoxarifado conta, principalmente, com o estoque de Munição, Fardas, Insígnias e Mantimentos. Para esse sistema é importante ressaltar algumas funcionalidades:
+#### Precisamos de um sistema para gerenciar um almoxarifado. Esse almoxarifado conta, principalmente, com o estoque de Munição, Fardas, Insígnias e Mantimentos. Para esse sistema é importante ressaltar algumas funcionalidades:
 
 1. Produtos perecíveis e próximos da data de validade devem, obrigatoriamente, ter prioridade na retirada do estoque.
 2. Para armazenar e retirar produtos/materiais do estoque o sistema deve, obrigatoriamente, salvar o responsável, a data, o produto e a quantidade do procedimento.
