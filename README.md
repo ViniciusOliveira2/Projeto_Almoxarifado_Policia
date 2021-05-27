@@ -26,3 +26,7 @@
 #### Giovani Henrique de Farias
 #### Vinicius Antony Ferreira
 #### Vinicius Fogaça de Oliveira
+
+## Casos de Uso
+
+![Casos de Uso](https://user-images.githubusercontent.com/67162641/119892361-70ee9d00-bf10-11eb-93f7-ac559e3e5211.png)
