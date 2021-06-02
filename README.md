@@ -35,4 +35,4 @@
 
 ![dfab055b-494c-45ac-b2b7-6e9df30fd98e](https://user-images.githubusercontent.com/67162641/120119962-e0fb5e00-c170-11eb-8e7c-82890bdb8e9a.jpg)
 
-link do figma (https://www.figma.com/file/tV3WbdPxjMtEf7pc8uuqHe/Prot%C3%B3tipo-ES2?node-id=2%3A10)
+link do figma (https://www.figma.com/file/PdljeMpW3GhQjJcSuQjt4F/Projeto-Almoxarifado?node-id=1%3A96)
