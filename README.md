@@ -29,7 +29,7 @@
 
 ## Casos de Uso
 
-![Casos de Uso](https://user-images.githubusercontent.com/67162641/119892361-70ee9d00-bf10-11eb-93f7-ac559e3e5211.png)
+![Casos de Uso](https://user-images.githubusercontent.com/67162641/122113006-eb1b8e80-cdf7-11eb-970d-a98a32c5f003.png)
 
 ## Diagrama de Classes
 
