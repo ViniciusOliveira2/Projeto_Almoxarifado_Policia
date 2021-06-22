@@ -38,3 +38,7 @@
 ## Interface - Figma
 
 https://www.figma.com/file/PdljeMpW3GhQjJcSuQjt4F/Projeto-Almoxarifado?node-id=0%3A1
+
+## Documento de Concepção
+
+https://fatecspgov-my.sharepoint.com/:w:/g/personal/vinicius_oliveira140_fatec_sp_gov_br/Ed5TqjDkkwZAlTMzL3VjTnUBu-590aAnx9w936Vf0mh8eQ?e=bu5OzD
